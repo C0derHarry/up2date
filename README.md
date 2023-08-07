@@ -1,2 +1,2 @@
 # Up2Date
- Flutter app I made to practice clean architecture
+ A news app I created to practice clean architecture
